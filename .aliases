@@ -1,0 +1,23 @@
+# git aliases
+
+alias gi="git init"
+alias gs="git status"
+alias gl="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+alias gckm="git checkout master"
+alias gaa="git add ."
+alias gc="git commit -m "
+alias gp="git push "
+alias gg="git pull "
+alias nah="git reset --hard && git clean -df"
+alias gck="git checkout "
+
+#files
+
+alias c="code "
+
+# npm aliases
+
+alias build="npm run build"
+alias watch="npm run watch"
+alias start="npm run start"
+alias serve="npm run serve"

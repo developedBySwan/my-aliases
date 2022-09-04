@@ -2,8 +2,8 @@
 
 first - copy the aliases from .aliases in the repo and then
 
-```clone this repo
-
+```
+clone this repo
 ```
 
 open the .bashrc file
